@@ -1,0 +1,15 @@
+html, body {
+  background: #F50F0F;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.wrapper {
+  text-align: center;
+  width: 100%;
+}
+
+.content {
+  display: inline-block;
+  max-width: 100%;
+}
